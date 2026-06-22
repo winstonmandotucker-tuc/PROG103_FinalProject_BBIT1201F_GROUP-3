@@ -86,9 +86,3 @@ ecoclean-sl/
 
 This project is licensed under the [MIT License](LICENSE) — see the LICENSE file for details.
 
-## 🎓 Academic Context
-
-- **Module:** PROG103 — Principles of Structured Programming
-- **Institution:** Limkokwing University of Creative Technology, Sierra Leone
-- **Examiner:** Elijah Fullah
-- **Semester:** 02, March 2026 – July 2026
