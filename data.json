@@ -1,0 +1,41 @@
+{
+    "requests": [
+        {
+            "id": "WM0001",
+            "name": "Samuel Kamara",
+            "phone": "+23279084353",
+            "community": "Aberdeen",
+            "waste_type": "Household",
+            "quantity": "10",
+            "priority": "Normal",
+            "status": "Completed",
+            "assigned_to": "Team",
+            "date": "2026-06-21",
+            "time": "16:22:43"
+        }
+    ],
+    "activity_log": [
+        {
+            "request_id": "WM0001",
+            "resident_name": "Samuel Kamara",
+            "action": "New Waste Collection Request Registered",
+            "performed_by": "admin",
+            "timestamp": "2026-06-21 16:22:43"
+        },
+        {
+            "request_id": "WM0001",
+            "resident_name": "Samuel Kamara",
+            "action": "Status Changed: Pending -> Pending",
+            "performed_by": "admin",
+            "timestamp": "2026-06-21 16:23:25"
+        },
+        {
+            "request_id": "WM0001",
+            "resident_name": "Samuel Kamara",
+            "action": "Status Changed: Pending -> Completed (Assigned to Team)",
+            "performed_by": "admin",
+            "timestamp": "2026-06-21 16:23:43"
+        }
+    ],
+    "next_id": 2
+}
